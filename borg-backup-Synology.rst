@@ -1,6 +1,8 @@
 
-Borg Backup Server
+Borg Backup Synology
 ==================
+
+Source: https://roll.urown.net/NAS/borg-backup-server.html
 
 `BorgBackup <https://www.borgbackup.org/>`_ (short: Borg) is a deduplicating
 backup program. Optionally, it supports compression and authenticated
